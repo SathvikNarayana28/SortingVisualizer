@@ -1,8 +1,9 @@
+SortingVisualizer
 This project is an interactive sorting visualizer using HTML, CSS, and JavaScript. It visually demonstrates sorting algorithms step by step, with code snippets displayed below for better understanding. This tool helps learners grasp sorting logic in an engaging way.
 
 Sorting Algorithm Visualizer Introduction This project is an interactive sorting algorithm visualizer that helps users understand how different sorting algorithms work. It provides a step-by-step visual representation of the sorting process, making it easier to grasp the logic behind each algorithm. Additionally, it includes code snippets below the visualization to reinforce learning.
 
-Access the sorting visualizer from here: https://sai-dhruva-theratipally.github.io/SortingVisualizer/
+Access the sorting visualizer from here: (https://github.com/SathvikNarayana28/SortingVisualizer.git)
 
 Technologies Stack HTML – Structures the webpage. CSS – Enhances the visual appeal and styling. JavaScript – Implements sorting logic and animations for visualization.
 
