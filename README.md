@@ -1,10 +1,28 @@
-#SortingVisualizer
-This project is an interactive sorting visualizer using HTML, CSS, and JavaScript. It visually demonstrates sorting algorithms step by step, with code snippets displayed below for better understanding. This tool helps learners grasp sorting logic in an engaging way.
+# SortingVisualizer
 
-Sorting Algorithm Visualizer Introduction This project is an interactive sorting algorithm visualizer that helps users understand how different sorting algorithms work. It provides a step-by-step visual representation of the sorting process, making it easier to grasp the logic behind each algorithm. Additionally, it includes code snippets below the visualization to reinforce learning.
+This is a simple sorting visualizer built using HTML, CSS, and JavaScript. It helps users understand how different sorting algorithms work by showing each step of the sorting process visually. Code snippets are also shown below the animation to make it easier to follow along.
 
-Access the sorting visualizer from here: https://github.com/SathvikNarayana28/SortingVisualizer.git
+## Access the Project
 
-Technologies Stack HTML – Structures the webpage. CSS – Enhances the visual appeal and styling. JavaScript – Implements sorting logic and animations for visualization.
+You can check out the project here: https://github.com/SathvikNarayana28/SortingVisualizer.git
 
-Functionalities Real-time Visualization – Displays step-by-step execution of sorting algorithms. Multiple Sorting Algorithms – Includes various sorting techniques like Bubble Sort, Quick Sort, Merge Sort, Selection Sort, Insertion Sort. Code Snippets – Shows corresponding code below the visualization for better understanding. Interactive Controls – Allows users to select algorithms, add data,generate a random array, and reset the array. This project serves as an educational tool for students and developers to learn and compare sorting techniques in an engaging way.
+## Introduction
+
+The goal of this project is to make learning sorting algorithms easier and more interactive. By seeing how each algorithm sorts an array step by step, users can better understand the logic behind it. This is especially useful for beginners who are just getting started with algorithms.
+
+## Technologies Used
+
+- HTML for structuring the page  
+- CSS for styling  
+- JavaScript for handling the sorting logic and animations
+
+## Features
+
+- Visual representation of how sorting algorithms work  
+- Includes Bubble Sort, Quick Sort, Merge Sort, Selection Sort, and Insertion Sort  
+- Code snippets are shown below the visualizer to help users understand the implementation  
+- Users can generate a random array, choose a sorting algorithm, and reset the array
+
+## Purpose
+
+This project is mainly meant for students or anyone learning sorting algorithms. It makes it easier to understand and compare different techniques in a fun and interactive way.
